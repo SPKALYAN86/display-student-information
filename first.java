@@ -12,7 +12,10 @@ class Student
 }
  class main{
     public static void main(String[] args) {
-        
+
+
+        // user input for all the parameters
+        // cgpa via array
         Student sukalyan = new Student("Sukalyan panda",28,7.0);
          System.out.println("Details for"+" " +sukalyan.name);
          System.out.println("name:" +sukalyan.name);
